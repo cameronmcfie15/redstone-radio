@@ -1,4 +1,4 @@
-package com.restoneradio.item;
+package com.redstoneradio.item;
 
 import net.minecraft.item.Item;
 

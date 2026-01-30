@@ -1,6 +1,6 @@
-package com.restoneradio;
+package com.redstoneradio;
 
-import com.restoneradio.item.Radio;
+import com.redstoneradio.item.Radio;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
